@@ -1,1 +1,2 @@
 commit ve push denemesi.
+modify ettiğim 2. satırı commit ediyorum.
